@@ -1,0 +1,2 @@
+# codefight
+a leetcode practice
